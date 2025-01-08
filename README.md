@@ -95,6 +95,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0005 |[Longest Palindromic Substring](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 179 | 100.00
 
 #### Day 15 Dynamic Programming
 
@@ -381,6 +382,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0005 |[Longest Palindromic Substring](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 179 | 100.00
 
 #### Day 18
 
@@ -840,6 +842,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/erlang/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 11 | 100.00
 
 #### Day 15 Tree
 
@@ -877,11 +880,14 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0007 |[Reverse Integer](src/main/erlang/g0001_0100/s0007_reverse_integer/Solution.erl)| Medium | Top_Interview_Questions, Math | 244 | 100.00
 
 #### Udemy Strings
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/erlang/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 11 | 100.00
+| 0005 |[Longest Palindromic Substring](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 179 | 100.00
 
 #### Udemy Binary Search
 
@@ -1074,6 +1080,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0005 |[Longest Palindromic Substring](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 179 | 100.00
 
 #### Day 10 Linked List
 
@@ -1167,6 +1174,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/erlang/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 11 | 100.00
 
 #### Day 7 Breadth First Search Depth First Search
 
@@ -1213,6 +1221,11 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
 | 0560 |[Subarray Sum Equals K](src/main/erlang/g0501_0600/s0560_subarray_sum_equals_k/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 47 | 100.00
+| 0007 |[Reverse Integer](src/main/erlang/g0001_0100/s0007_reverse_integer/Solution.erl)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 244 | 100.00
+| 0006 |[Zigzag Conversion](src/main/erlang/g0001_0100/s0006_zigzag_conversion/Solution.erl)| Medium | String | 203 | 100.00
+| 0005 |[Longest Palindromic Substring](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 179 | 100.00
+| 0004 |[Median of Two Sorted Arrays](src/main/erlang/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1), AI_can_be_used_to_solve_the_task | 1 | 100.00
+| 0003 |[Longest Substring Without Repeating Characters](src/main/erlang/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 11 | 100.00
 | 0002 |[Add Two Numbers](src/main/erlang/g0001_0100/s0002_add_two_numbers/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Data_Structure_II_Day_10_Linked_List, Programming_Skills_II_Day_15, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 1 | 77.78
 | 0001 |[Two Sum](src/main/erlang/g0001_0100/s0001_two_sum/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Data_Structure_I_Day_2_Array, Level_1_Day_13_Hashmap, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 3 | 97.50
 
