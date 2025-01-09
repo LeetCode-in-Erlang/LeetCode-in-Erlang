@@ -40,11 +40,13 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/erlang/g0001_0100/s0015_3sum/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 1387 | 100.00
 
 #### Day 4 Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0011 |[Container With Most Water](src/main/erlang/g0001_0100/s0011_container_with_most_water/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 13 | 100.00
 
 #### Day 5 Sliding Window
 
@@ -881,6 +883,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0007 |[Reverse Integer](src/main/erlang/g0001_0100/s0007_reverse_integer/Solution.erl)| Medium | Top_Interview_Questions, Math | 244 | 100.00
+| 0009 |[Palindrome Number](src/main/erlang/g0001_0100/s0009_palindrome_number/Solution.erl)| Easy | Math | 1 | 100.00
 
 #### Udemy Strings
 
@@ -904,6 +907,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/erlang/g0001_0100/s0015_3sum/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 1387 | 100.00
 
 #### Udemy Famous Algorithm
 
@@ -944,6 +948,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0010 |[Regular Expression Matching](src/main/erlang/g0001_0100/s0010_regular_expression_matching/Solution.erl)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 2019 | 100.00
 
 #### Udemy Backtracking/Recursion
 
@@ -1039,6 +1044,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0015 |[3Sum](src/main/erlang/g0001_0100/s0015_3sum/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 1387 | 100.00
 
 #### Day 2 Array
 
@@ -1221,6 +1227,11 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
 | 0560 |[Subarray Sum Equals K](src/main/erlang/g0501_0600/s0560_subarray_sum_equals_k/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 47 | 100.00
+| 0015 |[3Sum](src/main/erlang/g0001_0100/s0015_3sum/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_1_Array, Algorithm_II_Day_3_Two_Pointers, Udemy_Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 1387 | 100.00
+| 0011 |[Container With Most Water](src/main/erlang/g0001_0100/s0011_container_with_most_water/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 13 | 100.00
+| 0010 |[Regular Expression Matching](src/main/erlang/g0001_0100/s0010_regular_expression_matching/Solution.erl)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 2019 | 100.00
+| 0009 |[Palindrome Number](src/main/erlang/g0001_0100/s0009_palindrome_number/Solution.erl)| Easy | Math, Udemy_Integers | 1 | 100.00
+| 0008 |[String to Integer (atoi)](src/main/erlang/g0001_0100/s0008_string_to_integer_atoi/Solution.erl)| Medium | Top_Interview_Questions, String | 0 | 100.00
 | 0007 |[Reverse Integer](src/main/erlang/g0001_0100/s0007_reverse_integer/Solution.erl)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 244 | 100.00
 | 0006 |[Zigzag Conversion](src/main/erlang/g0001_0100/s0006_zigzag_conversion/Solution.erl)| Medium | String | 203 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 179 | 100.00
