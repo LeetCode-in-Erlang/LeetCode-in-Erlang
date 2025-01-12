@@ -30,6 +30,8 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/erlang/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 1 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Binary Search
 
@@ -77,22 +79,26 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/erlang/g0001_0100/s0039_combination_sum/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
 
 #### Day 11 Recursion Backtracking
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0017 |[Letter Combinations of a Phone Number](src/main/erlang/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 | 0022 |[Generate Parentheses](src/main/erlang/g0001_0100/s0022_generate_parentheses/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
 
 #### Day 12 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0055 |[Jump Game](src/main/erlang/g0001_0100/s0055_jump_game/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
 
 #### Day 13 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0045 |[Jump Game II](src/main/erlang/g0001_0100/s0045_jump_game_ii/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 488 | 100.00
 
 #### Day 14 Dynamic Programming
 
@@ -146,6 +152,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/erlang/g0001_0100/s0035_search_insert_position/Solution.erl)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 3
 
@@ -161,6 +168,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/erlang/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 1 | 100.00
 
 #### Day 6
 
@@ -191,6 +199,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 12
 
@@ -320,11 +329,14 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0055 |[Jump Game](src/main/erlang/g0001_0100/s0055_jump_game/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
+| 0045 |[Jump Game II](src/main/erlang/g0001_0100/s0045_jump_game_ii/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 488 | 100.00
 
 #### Day 5
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/erlang/g0001_0100/s0053_maximum_subarray/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 4 | 100.00
 
 #### Day 6
 
@@ -345,6 +357,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/erlang/g0001_0100/s0042_trapping_rain_water/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
 
 #### Day 10
 
@@ -525,6 +538,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/erlang/g0001_0100/s0049_group_anagrams/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 23 | 23 ( %)
 
 #### Day 12
 
@@ -817,6 +831,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 9 Binary Search Tree
 
@@ -878,6 +893,8 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/erlang/g0001_0100/s0039_combination_sum/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0046 |[Permutations](src/main/erlang/g0001_0100/s0046_permutations/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 ### Udemy
 
@@ -895,28 +912,34 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | 0003 |[Longest Substring Without Repeating Characters](src/main/erlang/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 11 | 100.00
 | 0020 |[Valid Parentheses](src/main/erlang/g0001_0100/s0020_valid_parentheses/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 179 | 100.00
+| 0049 |[Group Anagrams](src/main/erlang/g0001_0100/s0049_group_anagrams/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 23 | 23 ( %)
 
 #### Udemy Binary Search
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Udemy Arrays
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0001 |[Two Sum](src/main/erlang/g0001_0100/s0001_two_sum/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 3 | 97.50
+| 0055 |[Jump Game](src/main/erlang/g0001_0100/s0055_jump_game/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
+| 0041 |[First Missing Positive](src/main/erlang/g0001_0100/s0041_first_missing_positive/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 151 | 100.00
 
 #### Udemy Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/erlang/g0001_0100/s0042_trapping_rain_water/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
 | 0015 |[3Sum](src/main/erlang/g0001_0100/s0015_3sum/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 1387 | 100.00
 
 #### Udemy Famous Algorithm
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/erlang/g0001_0100/s0053_maximum_subarray/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 4 | 100.00
 
 #### Udemy Sorting Algorithms
 
@@ -961,6 +984,9 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0022 |[Generate Parentheses](src/main/erlang/g0001_0100/s0022_generate_parentheses/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
+| 0039 |[Combination Sum](src/main/erlang/g0001_0100/s0039_combination_sum/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0017 |[Letter Combinations of a Phone Number](src/main/erlang/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0046 |[Permutations](src/main/erlang/g0001_0100/s0046_permutations/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 #### Udemy Bit Manipulation
 
@@ -978,6 +1004,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/erlang/g0001_0100/s0053_maximum_subarray/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 4 | 100.00
 
 #### Day 2 Array
 
@@ -1090,6 +1117,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/erlang/g0001_0100/s0049_group_anagrams/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 23 | 23 ( %)
 
 #### Day 9 String
 
@@ -1165,6 +1193,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/erlang/g0001_0100/s0035_search_insert_position/Solution.erl)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
 
 #### Day 2 Two Pointers
 
@@ -1218,6 +1247,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0046 |[Permutations](src/main/erlang/g0001_0100/s0046_permutations/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -1240,12 +1270,25 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 |------|----------------|-------------|-------------|----------|---------
 | 0647 |[Palindromic Substrings](src/main/erlang/g0601_0700/s0647_palindromic_substrings/Solution.erl)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 17 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/erlang/g0501_0600/s0560_subarray_sum_equals_k/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 47 | 100.00
+| 0055 |[Jump Game](src/main/erlang/g0001_0100/s0055_jump_game/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_4, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
+| 0053 |[Maximum Subarray](src/main/erlang/g0001_0100/s0053_maximum_subarray/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Data_Structure_I_Day_1_Array, Dynamic_Programming_I_Day_5, Udemy_Famous_Algorithm, Big_O_Time_O(n)_Space_O(1) | 4 | 100.00
+| 0049 |[Group Anagrams](src/main/erlang/g0001_0100/s0049_group_anagrams/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Data_Structure_II_Day_8_String, Programming_Skills_II_Day_11, Udemy_Strings, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 23 | 23 ( %)
+| 0046 |[Permutations](src/main/erlang/g0001_0100/s0046_permutations/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Algorithm_I_Day_11_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 0 | 100.00
+| 0045 |[Jump Game II](src/main/erlang/g0001_0100/s0045_jump_game_ii/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_4, Big_O_Time_O(n)_Space_O(1) | 488 | 100.00
+| 0042 |[Trapping Rain Water](src/main/erlang/g0001_0100/s0042_trapping_rain_water/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Dynamic_Programming_I_Day_9, Udemy_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
+| 0041 |[First Missing Positive](src/main/erlang/g0001_0100/s0041_first_missing_positive/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n) | 151 | 100.00
+| 0039 |[Combination Sum](src/main/erlang/g0001_0100/s0039_combination_sum/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n+2^n) | 0 | 100.00
+| 0035 |[Search Insert Position](src/main/erlang/g0001_0100/s0035_search_insert_position/Solution.erl)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_I_Day_1_Binary_Search, Binary_Search_I_Day_2, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/erlang/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_5, Big_O_Time_O(log_n)_Space_O(1) | 1 | 100.00
+| 0033 |[Search in Rotated Sorted Array](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_11, Level_2_Day_8_Binary_Search, Udemy_Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0032 |[Longest Valid Parentheses](src/main/erlang/g0001_0100/s0032_longest_valid_parentheses/Solution.erl)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Stack, Big_O_Time_O(n)_Space_O(1) | 19 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/erlang/g0001_0100/s0024_swap_nodes_in_pairs/Solution.erl)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0023 |[Merge k Sorted Lists](src/main/erlang/g0001_0100/s0023_merge_k_sorted_lists/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 93 | 100.00
 | 0022 |[Generate Parentheses](src/main/erlang/g0001_0100/s0022_generate_parentheses/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
 | 0021 |[Merge Two Sorted Lists](src/main/erlang/g0001_0100/s0021_merge_two_sorted_lists/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_7_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 | 0020 |[Valid Parentheses](src/main/erlang/g0001_0100/s0020_valid_parentheses/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Data_Structure_I_Day_9_Stack_Queue, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0019 |[Remove Nth Node From End of List](src/main/erlang/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Algorithm_I_Day_5_Two_Pointers, Level_2_Day_3_Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
+| 0017 |[Letter Combinations of a Phone Number](src/main/erlang/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
 | 0015 |[3Sum](src/main/erlang/g0001_0100/s0015_3sum/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_1_Array, Algorithm_II_Day_3_Two_Pointers, Udemy_Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 1387 | 100.00
 | 0011 |[Container With Most Water](src/main/erlang/g0001_0100/s0011_container_with_most_water/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 13 | 100.00
 | 0010 |[Regular Expression Matching](src/main/erlang/g0001_0100/s0010_regular_expression_matching/Solution.erl)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 2019 | 100.00
