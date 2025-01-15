@@ -354,6 +354,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/erlang/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 89 | 100.00
 
 #### Day 8
 
@@ -481,6 +482,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
 
 #### Day 11 Containers and Libraries
 
@@ -748,11 +750,13 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/erlang/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 89 | 100.00
 
 #### Day 6 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/erlang/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 12 | 100.00
 
 #### Day 7 Binary Search
 
@@ -883,6 +887,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0101 |[Symmetric Tree](src/main/erlang/g0101_0200/s0101_symmetric_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Day 16 Design
 
@@ -940,6 +945,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/erlang/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 89 | 100.00
 | 0001 |[Two Sum](src/main/erlang/g0001_0100/s0001_two_sum/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 3 | 97.50
 | 0055 |[Jump Game](src/main/erlang/g0001_0100/s0055_jump_game/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
 | 0041 |[First Missing Positive](src/main/erlang/g0001_0100/s0041_first_missing_positive/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 151 | 100.00
@@ -981,6 +987,8 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/erlang/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0102 |[Binary Tree Level Order Traversal](src/main/erlang/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 12 | 100.00
+| 0104 |[Maximum Depth of Binary Tree](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/erlang/g0001_0100/s0098_validate_binary_search_tree/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Udemy Trie and Heap
@@ -1039,6 +1047,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/erlang/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 89 | 100.00
 
 #### Day 4 Array
 
@@ -1083,6 +1092,9 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/erlang/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 12 | 100.00
+| 0104 |[Maximum Depth of Binary Tree](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+| 0101 |[Symmetric Tree](src/main/erlang/g0101_0200/s0101_symmetric_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Day 12 Tree
 
@@ -1184,6 +1196,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/erlang/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 169 | 100.00
 
 #### Day 16 Tree
 
@@ -1301,6 +1314,11 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | 0739 |[Daily Temperatures](src/main/erlang/g0701_0800/s0739_daily_temperatures/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 94 | 100.00
 | 0647 |[Palindromic Substrings](src/main/erlang/g0601_0700/s0647_palindromic_substrings/Solution.erl)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 17 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/erlang/g0501_0600/s0560_subarray_sum_equals_k/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 47 | 100.00
+| 0121 |[Best Time to Buy and Sell Stock](src/main/erlang/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 89 | 100.00
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/erlang/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 169 | 100.00
+| 0104 |[Maximum Depth of Binary Tree](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+| 0102 |[Binary Tree Level Order Traversal](src/main/erlang/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_1_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 12 | 100.00
+| 0101 |[Symmetric Tree](src/main/erlang/g0101_0200/s0101_symmetric_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/erlang/g0001_0100/s0098_validate_binary_search_tree/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_I_Day_14_Tree, Level_1_Day_8_Binary_Search_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 | 0096 |[Unique Binary Search Trees](src/main/erlang/g0001_0100/s0096_unique_binary_search_trees/Solution.erl)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0094 |[Binary Tree Inorder Traversal](src/main/erlang/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Data_Structure_I_Day_10_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
