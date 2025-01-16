@@ -567,6 +567,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0138 |[Copy List with Random Pointer](src/main/erlang/g0101_0200/s0138_copy_list_with_random_pointer/Solution.erl)| Medium | Array, Bit_Manipulation | 6 | 100.00
 
 #### Day 15
 
@@ -923,6 +924,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/erlang/g0101_0200/s0136_single_number/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0007 |[Reverse Integer](src/main/erlang/g0001_0100/s0007_reverse_integer/Solution.erl)| Medium | Top_Interview_Questions, Math | 244 | 100.00
 | 0009 |[Palindrome Number](src/main/erlang/g0001_0100/s0009_palindrome_number/Solution.erl)| Easy | Math | 1 | 100.00
 
@@ -981,6 +983,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0024 |[Swap Nodes in Pairs](src/main/erlang/g0001_0100/s0024_swap_nodes_in_pairs/Solution.erl)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0021 |[Merge Two Sorted Lists](src/main/erlang/g0001_0100/s0021_merge_two_sorted_lists/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0138 |[Copy List with Random Pointer](src/main/erlang/g0101_0200/s0138_copy_list_with_random_pointer/Solution.erl)| Medium | Array, Bit_Manipulation | 6 | 100.00
 
 #### Udemy Tree Stack Queue
 
@@ -989,6 +992,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | 0094 |[Binary Tree Inorder Traversal](src/main/erlang/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0102 |[Binary Tree Level Order Traversal](src/main/erlang/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 12 | 100.00
 | 0104 |[Maximum Depth of Binary Tree](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+| 0124 |[Binary Tree Maximum Path Sum](src/main/erlang/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 4 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/erlang/g0001_0100/s0098_validate_binary_search_tree/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Udemy Trie and Heap
@@ -1118,6 +1122,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/erlang/g0101_0200/s0136_single_number/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0015 |[3Sum](src/main/erlang/g0001_0100/s0015_3sum/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 1387 | 100.00
 
 #### Day 2 Array
@@ -1305,6 +1310,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/erlang/g0101_0200/s0136_single_number/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 ## Algorithms
 
@@ -1314,6 +1320,11 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | 0739 |[Daily Temperatures](src/main/erlang/g0701_0800/s0739_daily_temperatures/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 94 | 100.00
 | 0647 |[Palindromic Substrings](src/main/erlang/g0601_0700/s0647_palindromic_substrings/Solution.erl)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 17 | 100.00
 | 0560 |[Subarray Sum Equals K](src/main/erlang/g0501_0600/s0560_subarray_sum_equals_k/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Hash_Table, Prefix_Sum, Data_Structure_II_Day_5_Array, Big_O_Time_O(n)_Space_O(n) | 47 | 100.00
+| 0138 |[Copy List with Random Pointer](src/main/erlang/g0101_0200/s0138_copy_list_with_random_pointer/Solution.erl)| Medium | Array, Bit_Manipulation | 6 | 100.00
+| 0136 |[Single Number](src/main/erlang/g0101_0200/s0136_single_number/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Data_Structure_II_Day_1_Array, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Integers, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0131 |[Palindrome Partitioning](src/main/erlang/g0101_0200/s0131_palindrome_partitioning/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(N\*2^N)_Space_O(2^N\*N) | 24 | 100.00
+| 0128 |[Longest Consecutive Sequence](src/main/erlang/g0101_0200/s0128_longest_consecutive_sequence/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 42 | 100.00
+| 0124 |[Binary Tree Maximum Path Sum](src/main/erlang/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.erl)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 4 | 100.00
 | 0121 |[Best Time to Buy and Sell Stock](src/main/erlang/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 89 | 100.00
 | 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/erlang/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 169 | 100.00
 | 0104 |[Maximum Depth of Binary Tree](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
