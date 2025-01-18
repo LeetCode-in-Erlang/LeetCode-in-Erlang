@@ -66,11 +66,8 @@ evict() ->
             ok
     end.
 
-
 unique_integer() ->
     erlang:unique_integer([monotonic]).
-
-
 
 %% Your functions will be called as such:
 %% lru_cache_init_(Capacity),
