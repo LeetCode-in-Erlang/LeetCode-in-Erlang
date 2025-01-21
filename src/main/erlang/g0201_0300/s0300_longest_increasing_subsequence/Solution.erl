@@ -5,7 +5,7 @@
 
 -spec length_of_lis(Nums :: [integer()]) -> integer().
 length_of_lis(Nums) ->
-    Pred = fun(V, Index) -> {{Index, V}, Index + 1} end,
+    Pred = fun(V, Index) -> { {Index, V}, Index + 1} end,
     {IVals, _} = lists:mapfoldl(Pred, 0, Nums),
     [H|T] = IVals,
     Tid = ets:new(lis, []),
