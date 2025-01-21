@@ -61,7 +61,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
+| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 350 | 100.00
 
 #### Day 7 Breadth First Search Depth First Search
 
@@ -620,7 +620,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
+| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 350 | 100.00
 
 #### Day 2 Matrix Related Problems
 
@@ -790,7 +790,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
+| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 350 | 100.00
 
 #### Day 10 Dynamic Programming
 
@@ -1040,7 +1040,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
+| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 350 | 100.00
 
 #### Udemy Dynamic Programming
 
@@ -1389,7 +1389,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | 0208 |[Implement Trie (Prefix Tree)](src/main/erlang/g0201_0300/s0208_implement_trie_prefix_tree/Trie.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Level_2_Day_16_Design, Udemy_Trie_and_Heap, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 85 | 100.00
 | 0207 |[Course Schedule](src/main/erlang/g0201_0300/s0207_course_schedule/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Big_O_Time_O(N)_Space_O(N) | 220 | 100.00
 | 0206 |[Reverse Linked List](src/main/erlang/g0201_0300/s0206_reverse_linked_list/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_8_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_II_Day_16_Tree, Level_2_Day_15_Tree | 0 | 100.00
+| 0200 |[Number of Islands](src/main/erlang/g0101_0200/s0200_number_of_islands/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search, Graph_Theory_I_Day_1_Matrix_Related_Problems, Level_1_Day_9_Graph/BFS/DFS, Udemy_Graph, Big_O_Time_O(M\*N)_Space_O(M\*N) | 350 | 100.00
 | 0198 |[House Robber](src/main/erlang/g0101_0200/s0198_house_robber/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_3, Level_2_Day_12_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0169 |[Majority Element](src/main/erlang/g0101_0200/s0169_majority_element/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Counting, Divide_and_Conquer, Data_Structure_II_Day_1_Array, Udemy_Famous_Algorithm, Big_O_Time_O(n)_Space_O(1) | 2 | 100.00
 | 0155 |[Min Stack](src/main/erlang/g0101_0200/s0155_min_stack/MinStack.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Data_Structure_II_Day_14_Stack_Queue, Programming_Skills_II_Day_18, Level_2_Day_16_Design, Udemy_Design, Big_O_Time_O(1)_Space_O(N) | 16 | 100.00
