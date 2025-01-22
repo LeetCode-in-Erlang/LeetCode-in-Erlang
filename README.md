@@ -129,7 +129,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 100 | 100.00
+| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 2600 | 100.00
 
 #### Day 18 Dynamic Programming
 
@@ -434,7 +434,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
-| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 100 | 100.00
+| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 2600 | 100.00
 | 0072 |[Edit Distance](src/main/erlang/g0001_0100/s0072_edit_distance/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 251 | 100.00
 
 #### Day 20
@@ -1060,7 +1060,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 | 0198 |[House Robber](src/main/erlang/g0101_0200/s0198_house_robber/Solution.erl)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0070 |[Climbing Stairs](src/main/erlang/g0001_0100/s0070_climbing_stairs/Solution.erl)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0300 |[Longest Increasing Subsequence](src/main/erlang/g0201_0300/s0300_longest_increasing_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 954 | 100.00
-| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 100 | 100.00
+| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 2600 | 100.00
 | 0072 |[Edit Distance](src/main/erlang/g0001_0100/s0072_edit_distance/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 251 | 100.00
 | 0010 |[Regular Expression Matching](src/main/erlang/g0001_0100/s0010_regular_expression_matching/Solution.erl)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 2019 | 100.00
 
@@ -1379,7 +1379,7 @@ Erlang-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
-| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 100 | 100.00
+| 1143 |[Longest Common Subsequence](src/main/erlang/g1101_1200/s1143_longest_common_subsequence/Solution.erl)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_17_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 2600 | 100.00
 | 0763 |[Partition Labels](src/main/erlang/g0701_0800/s0763_partition_labels/Solution.erl)| Medium | String, Hash_Table, Greedy, Two_Pointers, Data_Structure_II_Day_7_String, Big_O_Time_O(n)_Space_O(1) | 5 | 100.00
 | 0739 |[Daily Temperatures](src/main/erlang/g0701_0800/s0739_daily_temperatures/Solution.erl)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, Programming_Skills_II_Day_6, Big_O_Time_O(n)_Space_O(n) | 94 | 100.00
 | 0647 |[Palindromic Substrings](src/main/erlang/g0601_0700/s0647_palindromic_substrings/Solution.erl)| Medium | String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n) | 17 | 100.00
